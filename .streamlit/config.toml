@@ -5,3 +5,16 @@ port = 10000
 [browser]
 serverAddress = "0.0.0.0"
 serverPort = 10000
+
+[theme]
+# Change the primary color of the theme
+primaryColor = "#4CAF50"
+
+# Change the background color of the sidebar
+backgroundColor = "#F0F0F5"
+
+# Change the text color
+textColor = "#333333"
+
+# Change the font
+font = "sans serif"
